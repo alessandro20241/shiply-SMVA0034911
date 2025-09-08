@@ -1,0 +1,43 @@
+{
+  "SMVA0034911": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Michael Höflmair, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Pierre van Meegen, Lindenstraat 33, 1971 JN IJmuiden, Niederlande",
+    "price": "2.900 €",
+    "description": "Hersteller: MV Agusta<br>Typ: Brutale 910 S <br>Fahrgestelnummer: ZCGF411AC7V008433 <br>Erstzulassung: 05/2007 <br>KM laut Vorbesitzer: 36.449 km <br>Leistung: 100 kW <br>Hubraum: 910 cm³<br>Farbe: Schwarz <br> Viele Extras; Originalteile verfügbar<br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Niederländische Zulassung.Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Pierre van Meegen<br>Lindenstraat 33<br>1971 JN IJmuiden<br>Niederlande<br>Telefon: +31 619971555",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "08-09-2025",
+    "deliveryDate": "16-09-2025",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Lindenstraat 33",
+      "postal_code": "1971 JN",
+      "city": "IJmuiden",
+      "country": "Niederlande"
+    }
+  }
+}
