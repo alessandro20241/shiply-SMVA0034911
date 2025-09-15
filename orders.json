@@ -1,7 +1,7 @@
 {
   "SMVA0034911": {
-    "status": "Versandvorbereitung",
-    "statusClass": "→ 65% Shiply blue bar",
+    "status": "Auf dem Transportweg",
+    "statusClass": "→ 85% green bar",
     "sender": "Michael Höflmair, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
     "receiver": "Pierre van Meegen, Lindenstraat 33, 1971 JN IJmuiden, Niederlande",
     "price": "2.900 €",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "08-09-2025",
-    "deliveryDate": "16-09-2025",
+    "deliveryDate": "19-09-2025",
     "pickup": {
       "street": "Lindenstraat 33",
       "postal_code": "18209",
